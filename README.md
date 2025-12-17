@@ -25,8 +25,8 @@ Manually reviewing raw data is time-consuming and inconsistent, making continuou
 - **GCP Cloud Logging** – Monitoring and troubleshooting
 
 ## Repository Structure
-```text
-assignment_final/
+```
+HHA-504-project/
 ├── architecture_diagram.png
 ├── architecture_plan.md
 ├── README.md
