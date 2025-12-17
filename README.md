@@ -27,9 +27,9 @@ Manually reviewing raw data is time-consuming and inconsistent, making continuou
 ## Repository Structure
 ```
 HHA-504-project/
+├── README.md
 ├── architecture_diagram.png
 ├── architecture_plan.md
-├── README.md
 ├── reflection.md
 └── use_case.md
 ```
