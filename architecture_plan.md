@@ -4,12 +4,12 @@
 
 | Layer | Service (Cloud) | Role in Solution | Related Assignment/Module |
 |------|------------------|------------------|---------------------------|
-| Frontend / Access | GCP Cloud Run (Flask web app) | Upload CSV files and display turnaround time analytics dashboard | Assignment 2 – Flask & Networking |
+| Frontend / Access | GCP Cloud Run (Flask web app) | Upload CSV files and display turnaround time analytics dashboard | Assignment 2 – VMs and Networking with Flask|
 | Storage | Azure Blob Storage | Store raw uploaded CSV files for durability and reprocessing | Module 6 – Storage |
 | Compute (Serverless) | GCP Cloud Functions | Validate and clean CSV files, compute turnaround time metrics, and write results to SQL | Assignment 3 – Serverless & Module 5 |
 | Trigger / Scheduling | GCP Cloud Scheduler | Triggers the serverless processing function on a schedule | Assignment 3 – Serverless |
 | Database / SQL | GCP Cloud SQL (MySQL) | Store cleaned data and aggregated summary tables for analytics | Assignment 4 & Module 7 – Databases |
-| Observability | GCP Cloud Logging | Capture logs for uploads, processing runs, and errors | Module 1 – Cloud Fundamentals |
+| Observability | GCP Cloud Logging | Capture logs for uploads, processing runs, and errors | Module 1 – Fundamentals Intro|
 
 
 ## 2. Architecture Diagram
