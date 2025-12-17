@@ -1,4 +1,4 @@
-# Architecture & Implementation Plan: Radiology Turnaround Time Analytics
+# Architecture & Implementation Plan
 
 ## 1. Service Mapping
 
